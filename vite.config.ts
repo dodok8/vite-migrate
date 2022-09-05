@@ -9,6 +9,17 @@ export default defineConfig({
   build: {
     outDir: "build",
   },
+  server: {
+    open: true,
+    port: 3000,
+    proxy: {
+      "/local": {
+        target: "https://your.api.domain.here",
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/local/, ""),
+      },
+    },
+  },
   plugins: [
     tsconfigPaths(),
     react(),

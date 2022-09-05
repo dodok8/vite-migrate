@@ -1,9 +1,12 @@
 import "./App.css";
+import Logo from "./logo.svg";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+        {/* @ts-ignore */}
+        <Logo height={150} />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>

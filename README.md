@@ -6,4 +6,8 @@
 
 <https://1drv.ms/p/s!Akv8aEdJ8NUml0asMO4Ak3hqqJTE?e=No0EIX>
 
-발표 들어주셔서 감사합니다.!
+발표 들어주셔서 감사합니다!
+
+Gistory도 한번 들어가주세요!
+
+<www.gistory.me>

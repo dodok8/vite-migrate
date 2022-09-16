@@ -10,4 +10,4 @@
 
 Gistory도 한번 들어가주세요!
 
-<www.gistory.me>
+<https://www.gistory.me>
